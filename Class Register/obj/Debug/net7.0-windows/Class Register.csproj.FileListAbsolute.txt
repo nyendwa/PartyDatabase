@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register_MarkupCompile.cache
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register_MarkupCompile.lref
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\bin\Debug\net7.0-windows\Class Register.exe
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\bin\Debug\net7.0-windows\Class Register.deps.json
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\bin\Debug\net7.0-windows\Class Register.runtimeconfig.json
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\bin\Debug\net7.0-windows\Class Register.dll
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\bin\Debug\net7.0-windows\Class Register.pdb
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.g.resources
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.dll
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\refint\Class Register.dll
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.pdb
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\Class Register.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\ref\Class Register.dll
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\App.baml
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\View\Main.g.cs
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\View\Main.baml
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\View\AddUser.g.cs
+C:\Users\Administrator\source\repos\ClassRegister\Class Register\obj\Debug\net7.0-windows\View\AddUser.baml
